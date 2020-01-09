@@ -1234,3 +1234,15 @@ section.lazy-placeholder:after {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
 }
+.cid-rN5NCIzmyo {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(0deg, #7fdbfd, #6670a9);
+}
+.cid-rN5NCIzmyo .mbr-iconfont-social {
+  font-size: 32px;
+  color: #ff3366;
+}
+.cid-rN5NCIzmyo .social-list a:focus {
+  text-decoration: none;
+}
